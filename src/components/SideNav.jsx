@@ -1,4 +1,4 @@
-import { use } from "react"
+
 import { first151Pokemon, getFullPokedexNumber} from "../utils"
 import { useState } from "react"
 
